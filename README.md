@@ -1,5 +1,5 @@
 # Sobat Dompet API
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 Sobat Dompet API is a native PHP RESTful API for managing wallet-related functionalities.
 
 ## Table of Contents
