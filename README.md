@@ -48,9 +48,9 @@ Ensure the API is up and running before using. You can use tools like Postman to
 The API endpoints are defined in the api folder. Below are the main endpoint categories:
 
 1. User Authentication:
-   `POST /api/otp/send-otp`  : Send OTP to WhatsApp number.
-   `POST /api/otp/send-otp-email`  : Send OTP to Email.
-   `POST /api/otp/verify-otp`  : Verify OTP number.
+   **POST /api/otp/send-otp**  : Send OTP to WhatsApp number.
+   **POST /api/otp/send-otp-email**  : Send OTP to Email.
+   **POST /api/otp/verify-otp**  : Verify OTP number.
 
 For more detailed information on each endpoint, refer to the API Documentation.
 
