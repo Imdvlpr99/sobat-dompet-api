@@ -159,7 +159,7 @@ class Otp {
                 if ($this->connection->query($sql)) {
                     $response = array(
                         "success" => true,
-                        "message" => "Kode OTP berhasil dikirim ke alamat email",
+                        "message" => "Kode OTP berhasil dikirim ke alamat email, harap cek folder spam bila email tidak diterima",
                         "message_id" => $rowCount,
                         "is_resend" => $isResend,
                         "time_in_second" => 60
