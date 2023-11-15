@@ -2,3 +2,4 @@ vendor/
 src/Constant.php
 Example.php
 test.php
+compose.json
